@@ -120,11 +120,15 @@
 		},
 		{
 			"Name": "OWLLivestreamingToolkit",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/92307b570d474fbc87592b973ce82e3b",
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "HardwareEncoders",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
