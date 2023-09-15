@@ -1,0 +1,3 @@
+[submodule "Plugins/RuntimeAudioImporter"]
+	path = Plugins/RuntimeAudioImporter
+	url = https://github.com/gtreshchev/RuntimeAudioImporter
