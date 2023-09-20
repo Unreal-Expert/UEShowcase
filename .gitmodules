@@ -1,3 +1,6 @@
 [submodule "Plugins/RuntimeAudioImporter"]
 	path = Plugins/RuntimeAudioImporter
 	url = https://github.com/gtreshchev/RuntimeAudioImporter
+[submodule "Plugins/BlueprintUe"]
+	path = Plugins/BlueprintUe
+	url = https://github.com/blueprintue/blueprintue-cpp-plugin
